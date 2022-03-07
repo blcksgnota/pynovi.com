@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply antialiased bg-oxford-blue flex justify-center font-red font-light  items-center h-screen ;
+  }
+}
