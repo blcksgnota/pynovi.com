@@ -21,8 +21,8 @@ export default function Home() {
       </div>
 
     <p className="mt-2.5 leading-loose font-red font-light text-cultured">
-        Formerly known as <span className="font-medium text-cultured border-b-2 border-pynovi-blue" ></span>Wehost Africa,</span> pynovi is an African cloud <span className="font-medium text-cultured border-b-2 border-pynovi-blue" > services provider.  </span> Focusing on good value, consistent service delivery,  <span className="font-medium text-cultured border-b-2 border-pantone"> </span> and infrastructure stability <span className="font-medium text-cultured border-b-2 border-pynovi-blue"> that businesses need to grow online.</span>
-    </p>
+        Formerly known as <span className="font-medium text-cultured border-b-2 border-pynovi-blue" ></span><span>Wehost Africa,</span> pynovi is an African cloud <span className="font-medium text-cultured border-b-2 border-pynovi-blue" > services provider.  </span> Focusing on good value, consistent service delivery,  <span className="font-medium text-cultured border-b-2 border-pantone"> </span> and infrastructure stability <span className="font-medium text-cultured border-b-2 border-pynovi-blue"> that businesses need to grow online.</span> 
+        </p>
    </div>
   )
 }
